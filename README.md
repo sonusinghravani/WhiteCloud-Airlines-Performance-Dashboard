@@ -118,6 +118,7 @@ This project reflects my ability to work with real datasets, clean them properly
 
 ## Dashboard Previews
 1. https://github.com/sonusinghravani/WhiteCloud-Airlines-Performance-Dashboard/blob/main/Dashboard-1.png
+2. https://github.com/sonusinghravani/WhiteCloud-Airlines-Performance-Dashboard/blob/main/Dashboard-2.png
 
 
 ---

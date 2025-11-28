@@ -117,6 +117,7 @@ I focused on:
 This project reflects my ability to work with real datasets, clean them properly, and deliver actionable dashboards — skills that are ready for any professional role in data analytics.
 
 ## Dashboard Previews
+1. https://github.com/sonusinghravani/WhiteCloud-Airlines-Performance-Dashboard/blob/main/Dashboard-1.png
 
 
 ---

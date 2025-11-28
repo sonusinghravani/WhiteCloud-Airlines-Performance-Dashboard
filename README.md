@@ -121,5 +121,3 @@ This project reflects my ability to work with real datasets, clean them properly
 2. https://github.com/sonusinghravani/WhiteCloud-Airlines-Performance-Dashboard/blob/main/Dashboard-2.png
 
 
----
-ofessional lagenge — aur sab kuch clear, simple, aur impactful hoga. 😊
